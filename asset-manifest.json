@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/pushpak/static/js/main.8509d919.js",
+    "main.js": "/pushpak/static/js/main.5bb99589.js",
     "static/media/Hero.jpeg": "/pushpak/static/media/Hero.8fb6188fac132e5c920a.jpeg",
     "static/media/P6.png": "/pushpak/static/media/P6.fc31fb4ab90a5b79e75f.png",
     "static/media/Equip4.png": "/pushpak/static/media/Equip4.df64b44d559dbc0e5043.png",
@@ -29,6 +29,6 @@
     "index.html": "/pushpak/index.html"
   },
   "entrypoints": [
-    "static/js/main.8509d919.js"
+    "static/js/main.5bb99589.js"
   ]
 }
