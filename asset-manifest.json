@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/pushpak/static/js/main.5bb99589.js",
+    "main.js": "/pushpak/static/js/main.d7bfdad5.js",
     "static/media/Hero.jpeg": "/pushpak/static/media/Hero.8fb6188fac132e5c920a.jpeg",
     "static/media/P6.png": "/pushpak/static/media/P6.fc31fb4ab90a5b79e75f.png",
     "static/media/Equip4.png": "/pushpak/static/media/Equip4.df64b44d559dbc0e5043.png",
@@ -16,10 +16,7 @@
     "static/media/P3.png": "/pushpak/static/media/P3.859d8988a3f663bac5b3.png",
     "static/media/Equip2.png": "/pushpak/static/media/Equip2.67960484b1e59c2c4be2.png",
     "static/media/P4.png": "/pushpak/static/media/P4.7bad45fcf9296ea73fca.png",
-    "static/media/Human.png": "/pushpak/static/media/Human.15bdc5266fc097b25f70.png",
     "static/media/P5.png": "/pushpak/static/media/P5.e2e4e8c58832997bd70f.png",
-    "static/media/Image1.png": "/pushpak/static/media/Image1.d448701d5186cf37936c.png",
-    "static/media/User.png": "/pushpak/static/media/User.6bb46a7bfb25e2039f10.png",
     "static/media/Rakesh Kohli.png": "/pushpak/static/media/Rakesh Kohli.be1216201525f4428afe.png",
     "static/media/P1.png": "/pushpak/static/media/P1.6f5e77022839d89a03ab.png",
     "static/media/Jhamat Hasseja.png": "/pushpak/static/media/Jhamat Hasseja.f7dd60f879b3291cf42a.png",
@@ -29,6 +26,6 @@
     "index.html": "/pushpak/index.html"
   },
   "entrypoints": [
-    "static/js/main.5bb99589.js"
+    "static/js/main.d7bfdad5.js"
   ]
 }
